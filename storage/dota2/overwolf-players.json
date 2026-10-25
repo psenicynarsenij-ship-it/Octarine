@@ -1,0 +1,544 @@
+{
+	"seen": [
+		{
+			"id": 1248357623,
+			"name": "PETROVICH",
+			"hero": 26,
+			"lastPlayed": 1792943357,
+			"matches": [
+				{
+					"match": 9061525051,
+					"playedAt": 1792940489,
+					"hero": 26,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 246889609,
+			"name": "Cinematic",
+			"hero": 96,
+			"lastPlayed": 1792943357,
+			"matches": [
+				{
+					"match": 9061525051,
+					"playedAt": 1792940489,
+					"hero": 96,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 1927267772,
+			"name": "sn1per",
+			"hero": 106,
+			"lastPlayed": 1792943357,
+			"matches": [
+				{
+					"match": 9061525051,
+					"playedAt": 1792940489,
+					"hero": 106,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 1910129068,
+			"name": "####",
+			"hero": 131,
+			"lastPlayed": 1792943357,
+			"matches": [
+				{
+					"match": 9061525051,
+					"playedAt": 1792940489,
+					"hero": 131,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 1812637586,
+			"name": "karneX",
+			"hero": 6,
+			"lastPlayed": 1792943357,
+			"matches": [
+				{
+					"match": 9061525051,
+					"playedAt": 1792940489,
+					"hero": 6,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 895628636,
+			"name": "Мурад аборт масте",
+			"hero": 12,
+			"lastPlayed": 1792943357,
+			"matches": [
+				{
+					"match": 9061525051,
+					"playedAt": 1792940489,
+					"hero": 12,
+					"ally": true,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 712721243,
+			"name": "23",
+			"hero": 14,
+			"lastPlayed": 1792943357,
+			"matches": [
+				{
+					"match": 9061525051,
+					"playedAt": 1792940489,
+					"hero": 14,
+					"ally": true,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 351350321,
+			"name": "VoroN",
+			"hero": 32,
+			"lastPlayed": 1792943357,
+			"matches": [
+				{
+					"match": 9061525051,
+					"playedAt": 1792940489,
+					"hero": 32,
+					"ally": true,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 1114442030,
+			"name": "BLɅCK",
+			"hero": 72,
+			"lastPlayed": 1792943357,
+			"matches": [
+				{
+					"match": 9061525051,
+					"playedAt": 1792940489,
+					"hero": 72,
+					"ally": true,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 936347390,
+			"name": "Серый Волк",
+			"hero": 44,
+			"lastPlayed": 1792947826,
+			"matches": [
+				{
+					"match": 9061663957,
+					"playedAt": 1792945153,
+					"hero": 44,
+					"ally": true,
+					"won": true
+				}
+			]
+		},
+		{
+			"id": 757780784,
+			"name": "abam4chik",
+			"hero": 26,
+			"lastPlayed": 1792947826,
+			"matches": [
+				{
+					"match": 9061663957,
+					"playedAt": 1792945153,
+					"hero": 26,
+					"ally": true,
+					"won": true
+				}
+			]
+		},
+		{
+			"id": 1855718481,
+			"name": "Дімон лп",
+			"hero": 73,
+			"lastPlayed": 1792947826,
+			"matches": [
+				{
+					"match": 9061663957,
+					"playedAt": 1792945153,
+					"hero": 73,
+					"ally": true,
+					"won": true
+				}
+			]
+		},
+		{
+			"id": 1034503232,
+			"name": "WINTIK",
+			"hero": 53,
+			"lastPlayed": 1792947826,
+			"matches": [
+				{
+					"match": 9061663957,
+					"playedAt": 1792945153,
+					"hero": 53,
+					"ally": false,
+					"won": true
+				}
+			]
+		},
+		{
+			"id": 1839831666,
+			"name": "ЕНИК",
+			"hero": 84,
+			"lastPlayed": 1792947826,
+			"matches": [
+				{
+					"match": 9061663957,
+					"playedAt": 1792945153,
+					"hero": 84,
+					"ally": false,
+					"won": true
+				}
+			]
+		},
+		{
+			"id": 1886381001,
+			"name": "dehkann",
+			"hero": 28,
+			"lastPlayed": 1792947826,
+			"matches": [
+				{
+					"match": 9061663957,
+					"playedAt": 1792945153,
+					"hero": 28,
+					"ally": false,
+					"won": true
+				}
+			]
+		},
+		{
+			"id": 1907892794,
+			"name": "djarum",
+			"hero": 11,
+			"lastPlayed": 1792947826,
+			"matches": [
+				{
+					"match": 9061663957,
+					"playedAt": 1792945156,
+					"hero": 11,
+					"ally": false,
+					"won": true
+				}
+			]
+		},
+		{
+			"id": 1735602967,
+			"name": "китаец",
+			"hero": 129,
+			"lastPlayed": 1792947826,
+			"matches": [
+				{
+					"match": 9061663957,
+					"playedAt": 1792945167,
+					"hero": 129,
+					"ally": true,
+					"won": true
+				}
+			]
+		},
+		{
+			"id": 1607064306,
+			"name": "психдиспансер",
+			"hero": 48,
+			"lastPlayed": 1792947826,
+			"matches": [
+				{
+					"match": 9061663957,
+					"playedAt": 1792945181,
+					"hero": 48,
+					"ally": false,
+					"won": true
+				}
+			]
+		},
+		{
+			"id": 1272767678,
+			"name": "D1??abled",
+			"hero": 26,
+			"lastPlayed": 1792949920,
+			"matches": [
+				{
+					"match": 9061750145,
+					"playedAt": 1792948183,
+					"hero": 26,
+					"ally": true,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 815530640,
+			"name": "максим рыбалка",
+			"hero": 44,
+			"lastPlayed": 1792949920,
+			"matches": [
+				{
+					"match": 9061750145,
+					"playedAt": 1792948183,
+					"hero": 44,
+					"ally": true,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 1593797427,
+			"name": "infallible",
+			"hero": 98,
+			"lastPlayed": 1792949920,
+			"matches": [
+				{
+					"match": 9061750145,
+					"playedAt": 1792948183,
+					"hero": 98,
+					"ally": true,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 200948567,
+			"name": "pikul1990",
+			"hero": 14,
+			"lastPlayed": 1792949920,
+			"matches": [
+				{
+					"match": 9061750145,
+					"playedAt": 1792948183,
+					"hero": 14,
+					"ally": true,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 1007371190,
+			"name": "ReShotJohn",
+			"hero": 5,
+			"lastPlayed": 1792949920,
+			"matches": [
+				{
+					"match": 9061750145,
+					"playedAt": 1792948183,
+					"hero": 5,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 145660708,
+			"name": "Flip",
+			"hero": 71,
+			"lastPlayed": 1792949920,
+			"matches": [
+				{
+					"match": 9061750145,
+					"playedAt": 1792948183,
+					"hero": 71,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 1865409699,
+			"name": "реки руки вены",
+			"hero": 92,
+			"lastPlayed": 1792949920,
+			"matches": [
+				{
+					"match": 9061750145,
+					"playedAt": 1792948183,
+					"hero": 92,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 1467206870,
+			"name": "мать",
+			"hero": 109,
+			"lastPlayed": 1792949920,
+			"matches": [
+				{
+					"match": 9061750145,
+					"playedAt": 1792948183,
+					"hero": 109,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 1480752720,
+			"name": "EvoID",
+			"hero": 136,
+			"lastPlayed": 1792949920,
+			"matches": [
+				{
+					"match": 9061750145,
+					"playedAt": 1792948183,
+					"hero": 136,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 1202467728,
+			"name": "I want to die",
+			"hero": 11,
+			"lastPlayed": 1792953276,
+			"matches": [
+				{
+					"match": 9061808637,
+					"playedAt": 1792950287,
+					"hero": 11,
+					"ally": true,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 780523342,
+			"name": "rym4api",
+			"hero": 100,
+			"lastPlayed": 1792953276,
+			"matches": [
+				{
+					"match": 9061808637,
+					"playedAt": 1792950287,
+					"hero": 100,
+					"ally": true,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 108117251,
+			"name": "Шуршик",
+			"hero": 26,
+			"lastPlayed": 1792953276,
+			"matches": [
+				{
+					"match": 9061808637,
+					"playedAt": 1792950287,
+					"hero": 26,
+					"ally": true,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 732085799,
+			"name": "sadness 05махачкала",
+			"hero": 34,
+			"lastPlayed": 1792953276,
+			"matches": [
+				{
+					"match": 9061808637,
+					"playedAt": 1792950287,
+					"hero": 34,
+					"ally": true,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 779420469,
+			"name": "dipeeee333",
+			"hero": 89,
+			"lastPlayed": 1792953276,
+			"matches": [
+				{
+					"match": 9061808637,
+					"playedAt": 1792950287,
+					"hero": 89,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 1125414513,
+			"name": "dispect",
+			"hero": 92,
+			"lastPlayed": 1792953276,
+			"matches": [
+				{
+					"match": 9061808637,
+					"playedAt": 1792950287,
+					"hero": 92,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 910717543,
+			"name": "Hefty_Crime",
+			"hero": 27,
+			"lastPlayed": 1792953276,
+			"matches": [
+				{
+					"match": 9061808637,
+					"playedAt": 1792950287,
+					"hero": 27,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 320921800,
+			"name": "Odin",
+			"hero": 21,
+			"lastPlayed": 1792953276,
+			"matches": [
+				{
+					"match": 9061808637,
+					"playedAt": 1792950287,
+					"hero": 21,
+					"ally": false,
+					"won": false
+				}
+			]
+		},
+		{
+			"id": 1548694888,
+			"name": "#культмертвых",
+			"hero": 74,
+			"lastPlayed": 1792953276,
+			"matches": [
+				{
+					"match": 9061808637,
+					"playedAt": 1792950287,
+					"hero": 74,
+					"ally": false,
+					"won": false
+				}
+			]
+		}
+	]
+}

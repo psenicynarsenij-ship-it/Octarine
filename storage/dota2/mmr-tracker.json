@@ -1,0 +1,33 @@
+{
+	"games.1293940753": [
+		{
+			"delta": -25,
+			"rating": 1623,
+			"at": 1792953266211,
+			"hero": "npc_dota_hero_arc_warden",
+			"match": "9061808637"
+		},
+		{
+			"delta": -25,
+			"rating": 1648,
+			"at": 1792949913458,
+			"hero": "npc_dota_hero_obsidian_destroyer",
+			"match": "9061750145"
+		},
+		{
+			"delta": 40,
+			"rating": 1673,
+			"at": 1792947815939,
+			"hero": "npc_dota_hero_broodmother",
+			"match": "9061663957"
+		},
+		{
+			"delta": -24,
+			"rating": 1633,
+			"at": 1792943350492,
+			"hero": "npc_dota_hero_ogre_magi",
+			"match": "9061525051"
+		}
+	],
+	"rating.1293940753": 1623
+}

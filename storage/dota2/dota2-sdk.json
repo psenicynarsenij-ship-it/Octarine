@@ -1,0 +1,832 @@
+{
+	"defaultWearables": {
+		"build": "11168076",
+		"worn": {
+			"npc_dota_hero_antimage": [
+				"models/heroes/antimage/antimage_weapon.vmdl",
+				"models/heroes/antimage/antimage_head.vmdl",
+				"models/heroes/antimage/antimage_chest.vmdl",
+				"models/heroes/antimage/antimage_arms.vmdl",
+				"models/heroes/antimage/antimage_belt.vmdl",
+				"models/heroes/antimage/antimage_offhand_weapon.vmdl"
+			],
+			"npc_dota_hero_axe": [
+				"models/heroes/axe/axe_weapon.vmdl",
+				"models/heroes/axe/axe_armor.vmdl",
+				"models/heroes/axe/axe_ponytail.vmdl",
+				"models/heroes/axe/axe_belt.vmdl"
+			],
+			"npc_dota_hero_juggernaut": [
+				"models/heroes/juggernaut/jugg_mask.vmdl",
+				"models/heroes/juggernaut/jugg_sword.vmdl",
+				"models/heroes/juggernaut/jugg_cape.vmdl",
+				"models/heroes/juggernaut/jugg_bracers.vmdl",
+				"models/heroes/juggernaut/juggernaut_pants.vmdl"
+			],
+			"npc_dota_hero_kunkka": [
+				"models/heroes/kunkka/kunkka_feet.vmdl",
+				"models/heroes/kunkka/kunkka_hands.vmdl",
+				"models/heroes/kunkka/kunkka_sword.vmdl",
+				"models/heroes/kunkka/kunkka_hair.vmdl",
+				"models/heroes/kunkka/kunkka_spyglass.vmdl",
+				"models/heroes/kunkka/kunkka_shoulders.vmdl"
+			],
+			"npc_dota_hero_omniknight": [
+				"models/heroes/omniknight/bracer.vmdl",
+				"models/heroes/omniknight/shoulder.vmdl",
+				"models/heroes/omniknight/cape.vmdl",
+				"models/heroes/omniknight/hammer.vmdl",
+				"models/heroes/omniknight/head.vmdl",
+				"models/heroes/omniknight/hair.vmdl"
+			],
+			"npc_dota_hero_faceless_void": [
+				"models/heroes/faceless_void/faceless_void_weapon.vmdl",
+				"models/heroes/faceless_void/faceless_void_head.vmdl",
+				"models/heroes/faceless_void/faceless_void_shoulder.vmdl",
+				"models/heroes/faceless_void/faceless_void_bracer.vmdl",
+				"models/heroes/faceless_void/faceless_void_belt.vmdl"
+			],
+			"npc_dota_hero_sven": [
+				"models/heroes/sven/sven_mask.vmdl",
+				"models/heroes/sven/sven_sword.vmdl",
+				"models/heroes/sven/sven_belt.vmdl",
+				"models/heroes/sven/sven_gauntlet.vmdl",
+				"models/heroes/sven/sven_shoulder.vmdl"
+			],
+			"npc_dota_hero_windrunner": [
+				"models/heroes/windrunner/windrunner_head.vmdl",
+				"models/heroes/windrunner/windrunner_bow.vmdl",
+				"models/heroes/windrunner/windrunner_shoulderpads.vmdl",
+				"models/heroes/windrunner/windrunner_cape.vmdl",
+				"models/heroes/windrunner/windrunner_quiver.vmdl"
+			],
+			"npc_dota_hero_queenofpain": [
+				"models/heroes/queenofpain/queenofpain_weapon.vmdl",
+				"models/heroes/queenofpain/wings.vmdl",
+				"models/heroes/queenofpain/shoulders.vmdl",
+				"models/heroes/queenofpain/hair.vmdl",
+				"models/heroes/queenofpain/queenofpain_legs.vmdl"
+			],
+			"npc_dota_hero_silencer": [
+				"models/heroes/silencer/silencer_weapon.vmdl",
+				"models/heroes/silencer/silencer_shield.vmdl",
+				"models/heroes/silencer/silender_bracers.vmdl",
+				"models/heroes/silencer/silencer_helmet.vmdl",
+				"models/heroes/silencer/silencer_shoulder.vmdl",
+				"models/heroes/silencer/silencer_robe.vmdl"
+			],
+			"npc_dota_hero_furion": [
+				"models/heroes/furion/furion_staff.vmdl",
+				"models/heroes/furion/furion_horns.vmdl",
+				"models/heroes/furion/furion_beard.vmdl",
+				"models/heroes/furion/furion_cape.vmdl",
+				"models/heroes/furion/furion_necklace.vmdl",
+				"models/heroes/furion/furion_bracer.vmdl"
+			],
+			"npc_dota_hero_tidehunter": [
+				"models/heroes/tidehunter/tidehunter_bracer.vmdl",
+				"models/heroes/tidehunter/tidehunter_belt.vmdl",
+				"models/heroes/tidehunter/tidehunter_anchor.vmdl",
+				"models/heroes/tidehunter/tidehunter_fish.vmdl"
+			],
+			"npc_dota_hero_crystal_maiden": [
+				"models/heroes/crystal_maiden/crystal_maiden_cape.vmdl",
+				"models/heroes/crystal_maiden/crystal_maiden_shoulders.vmdl",
+				"models/heroes/crystal_maiden/crystal_maiden_staff.vmdl",
+				"models/heroes/crystal_maiden/crystal_maiden_cuffs.vmdl",
+				"models/heroes/crystal_maiden/head_item.vmdl"
+			],
+			"npc_dota_hero_pudge": [
+				"models/heroes/pudge/righthook.vmdl",
+				"models/heroes/pudge/back.vmdl",
+				"models/heroes/pudge/leftweapon.vmdl",
+				"models/heroes/pudge/leftarm.vmdl",
+				"models/heroes/pudge/bracer.vmdl",
+				"models/heroes/pudge/hair.vmdl",
+				"models/heroes/pudge/belt.vmdl"
+			],
+			"npc_dota_hero_invoker": [
+				"models/heroes/invoker/invoker_cape.vmdl",
+				"models/heroes/invoker/invoker_shoulder.vmdl",
+				"models/heroes/invoker/invoker_head.vmdl",
+				"models/heroes/invoker/invoker_hair.vmdl",
+				"models/heroes/invoker/invoker_bracer.vmdl",
+				"models/heroes/invoker/invoker_dress.vmdl"
+			],
+			"npc_dota_hero_bounty_hunter": [
+				"models/heroes/bounty_hunter/bounty_hunter_rweapon.vmdl",
+				"models/heroes/bounty_hunter/bounty_hunter_lweapon.vmdl",
+				"models/heroes/bounty_hunter/bounty_hunter_backpack.vmdl",
+				"models/heroes/bounty_hunter/bounty_hunter_pads.vmdl",
+				"models/heroes/bounty_hunter/bounty_hunter_bweapon.vmdl",
+				"models/heroes/bounty_hunter/bounty_hunter_bandana.vmdl"
+			],
+			"npc_dota_hero_clinkz": [
+				"models/heroes/clinkz/clinkz_head.vmdl",
+				"models/heroes/clinkz/clinkz_bow.vmdl",
+				"models/heroes/clinkz/clinkz_pads.vmdl",
+				"models/heroes/clinkz/clinkz_back.vmdl",
+				"models/heroes/clinkz/clinkz_horns.vmdl",
+				"models/heroes/clinkz/clinkz_gloves.vmdl"
+			],
+			"npc_dota_hero_dragon_knight": [
+				"models/heroes/dragon_knight/helmet.vmdl",
+				"models/heroes/dragon_knight/shoulders.vmdl",
+				"models/heroes/dragon_knight/bracers.vmdl",
+				"models/heroes/dragon_knight/weapon.vmdl",
+				"models/heroes/dragon_knight/shield.vmdl",
+				"models/heroes/dragon_knight/skirt.vmdl"
+			],
+			"npc_dota_hero_bloodseeker": [
+				"models/heroes/blood_seeker/weapon.vmdl",
+				"models/heroes/blood_seeker/helmet.vmdl",
+				"models/heroes/blood_seeker/weapon_offhand.vmdl",
+				"models/heroes/blood_seeker/neck.vmdl",
+				"models/heroes/blood_seeker/cape.vmdl",
+				"models/heroes/blood_seeker/bracer.vmdl",
+				"models/heroes/blood_seeker/belt.vmdl"
+			],
+			"npc_dota_hero_drow_ranger": [
+				"models/heroes/drow/drow_bracer.vmdl",
+				"models/heroes/drow/drow_cape.vmdl",
+				"models/heroes/drow/drow_weapon.vmdl",
+				"models/heroes/drow/drow_legs.vmdl",
+				"models/heroes/drow/drow_quiver.vmdl",
+				"models/heroes/drow/drow_armor.vmdl",
+				"models/heroes/drow/drow_haircowl.vmdl"
+			],
+			"npc_dota_hero_ursa": [
+				"models/heroes/ursa/helmet.vmdl",
+				"models/heroes/ursa/fur.vmdl",
+				"models/heroes/ursa/bracers.vmdl",
+				"models/heroes/ursa/skirt.vmdl"
+			],
+			"npc_dota_hero_witch_doctor": [
+				"models/heroes/witchdoctor/witchdoctor_head.vmdl",
+				"models/heroes/witchdoctor/witchdoctor_bag.vmdl",
+				"models/heroes/witchdoctor/witchdoctor_belt.vmdl",
+				"models/heroes/witchdoctor/witchdoctor_staff.vmdl"
+			],
+			"npc_dota_hero_broodmother": [
+				"models/heroes/broodmother/broodmother_hair.vmdl",
+				"models/heroes/broodmother/broodmother_legs.vmdl",
+				"models/heroes/broodmother/broodmother_abdomen.vmdl"
+			],
+			"npc_dota_hero_meepo": [
+				"models/heroes/meepo/meepo_weapon.vmdl",
+				"models/heroes/meepo/hood.vmdl",
+				"models/heroes/meepo/pack.vmdl",
+				"models/heroes/meepo/shoulders.vmdl",
+				"models/heroes/meepo/bracers.vmdl",
+				"models/heroes/meepo/tail.vmdl"
+			],
+			"npc_dota_hero_ogre_magi": [
+				"models/heroes/ogre_magi/ogre_magi_weapon.vmdl",
+				"models/heroes/ogre_magi/ogre_magi_cape.vmdl",
+				"models/heroes/ogre_magi/ogre_magi_bracers.vmdl",
+				"models/heroes/ogre_magi/ogre_magi_hats.vmdl",
+				"models/heroes/ogre_magi/ogre_magi_belt.vmdl"
+			],
+			"npc_dota_hero_spirit_breaker": [
+				"models/heroes/spirit_breaker/spirit_breaker_head.vmdl",
+				"models/heroes/spirit_breaker/spirit_breaker_horns.vmdl",
+				"models/heroes/spirit_breaker/spirit_breaker_shoulders.vmdl",
+				"models/heroes/spirit_breaker/spirit_breaker_weapon.vmdl",
+				"models/heroes/spirit_breaker/spirit_breaker_tail.vmdl",
+				"models/heroes/spirit_breaker/spirit_breaker_bracers.vmdl",
+				"models/heroes/spirit_breaker/spirit_breaker_lower_armor.vmdl"
+			],
+			"npc_dota_hero_lone_druid": [
+				"models/heroes/lone_druid/head.vmdl",
+				"models/heroes/lone_druid/shoulder.vmdl",
+				"models/heroes/lone_druid/arms.vmdl",
+				"models/heroes/lone_druid/body.vmdl",
+				"models/heroes/lone_druid/weapon.vmdl"
+			],
+			"npc_dota_hero_alchemist": [
+				"models/heroes/alchemist/alchemist_goblin_body.vmdl",
+				"models/heroes/alchemist/alchemist_scabbard.vmdl",
+				"models/heroes/alchemist/alchemist_saddlehat.vmdl",
+				"models/heroes/alchemist/alchemist_gauntlets.vmdl",
+				"models/heroes/alchemist/alchemist_goblinhat.vmdl",
+				"models/heroes/alchemist/alchemist_leftbottle.vmdl",
+				"models/heroes/alchemist/alchemist_goblin_head.vmdl",
+				"models/heroes/alchemist/alchemist_ogre_head.vmdl",
+				"models/heroes/alchemist/alchemist_shoulderbottles.vmdl"
+			],
+			"npc_dota_hero_gyrocopter": [
+				"models/heroes/gyro/gyro_bottles.vmdl",
+				"models/heroes/gyro/gyro_head.vmdl",
+				"models/heroes/gyro/gyro_goggles.vmdl",
+				"models/heroes/gyro/gyro_guns.vmdl",
+				"models/heroes/gyro/gyro_propeller.vmdl",
+				"models/heroes/gyro/gyro_missile.vmdl"
+			],
+			"npc_dota_hero_phantom_lancer": [
+				"models/heroes/phantom_lancer/phantom_lancer_head.vmdl",
+				"models/heroes/phantom_lancer/phantom_lancer_belt.vmdl",
+				"models/heroes/phantom_lancer/phantom_lancer_gauntlet.vmdl",
+				"models/heroes/phantom_lancer/phantom_lancer_shoulderpad.vmdl",
+				"models/heroes/phantom_lancer/phantom_lancer_weapon.vmdl"
+			],
+			"npc_dota_hero_phantom_assassin": [
+				"models/heroes/phantom_assassin/phantom_assassin_helmet.vmdl",
+				"models/heroes/phantom_assassin/phantom_assassin_shoulders.vmdl",
+				"models/heroes/phantom_assassin/phantom_assassin_cape.vmdl",
+				"models/heroes/phantom_assassin/phantom_assassin_weapon.vmdl",
+				"models/heroes/phantom_assassin/phantom_assassin_daggers.vmdl"
+			],
+			"npc_dota_hero_disruptor": [
+				"models/heroes/disruptor/weapon.vmdl",
+				"models/heroes/disruptor/bracers.vmdl",
+				"models/heroes/disruptor/hair.vmdl",
+				"models/heroes/disruptor/back.vmdl",
+				"models/heroes/disruptor/shoulder.vmdl",
+				"models/heroes/disruptor/mount.vmdl"
+			],
+			"npc_dota_hero_skeleton_king": [
+				"models/heroes/wraith_king/wraith_king_head.vmdl",
+				"models/heroes/wraith_king/wraith_king_weapon.vmdl",
+				"models/heroes/wraith_king/wraith_king_shoulder.vmdl",
+				"models/heroes/wraith_king/wraith_king_gauntlet.vmdl",
+				"models/heroes/wraith_king/wraith_king_cape.vmdl",
+				"models/heroes/wraith_king/wraith_king_chest.vmdl"
+			],
+			"npc_dota_hero_pugna": [
+				"models/heroes/pugna/pugna_head.vmdl",
+				"models/heroes/pugna/pugna_cape.vmdl",
+				"models/heroes/pugna/pugna_bracers.vmdl",
+				"models/heroes/pugna/pugna_weapon.vmdl",
+				"models/heroes/pugna/pugna_belt.vmdl",
+				"models/heroes/pugna/pugna_shoulder.vmdl"
+			],
+			"npc_dota_hero_brewmaster": [
+				"models/heroes/brewmaster/weapon.vmdl",
+				"models/heroes/brewmaster/barrel.vmdl",
+				"models/heroes/brewmaster/bracer.vmdl",
+				"models/heroes/brewmaster/back.vmdl",
+				"models/heroes/brewmaster/shoulder.vmdl"
+			],
+			"npc_dota_hero_riki": [
+				"models/heroes/rikimaru/rikimaru_head.vmdl",
+				"models/heroes/rikimaru/rikimaru_shoulder.vmdl",
+				"models/heroes/rikimaru/rikimaru_tail.vmdl",
+				"models/heroes/rikimaru/rikimaru_gloves.vmdl",
+				"models/heroes/rikimaru/rikimaru__offhand_weapon.vmdl",
+				"models/heroes/rikimaru/rikimaru_weapon.vmdl"
+			],
+			"npc_dota_hero_death_prophet": [
+				"models/heroes/death_prophet/death_prophet_dress.vmdl",
+				"models/heroes/death_prophet/death_prophet_hair.vmdl",
+				"models/heroes/death_prophet/death_prophet_dresstop.vmdl",
+				"models/heroes/death_prophet/death_prophet_scarf.vmdl"
+			],
+			"npc_dota_hero_templar_assassin": [
+				"models/heroes/lanaya/lanaya_hair.vmdl",
+				"models/heroes/lanaya/lanaya_cowl_shoulder.vmdl",
+				"models/heroes/lanaya/lanaya_bracers_skirt.vmdl"
+			],
+			"npc_dota_hero_sand_king": [
+				"models/heroes/sand_king/sand_king_head.vmdl",
+				"models/heroes/sand_king/sand_king_shoulder.vmdl",
+				"models/heroes/sand_king/sand_king_arms.vmdl",
+				"models/heroes/sand_king/sand_king_legs.vmdl",
+				"models/heroes/sand_king/sand_king_tail.vmdl"
+			],
+			"npc_dota_hero_chaos_knight": [
+				"models/heroes/chaos_knight/chaos_knight_mount.vmdl",
+				"models/heroes/chaos_knight/chaos_knight_shoulderpads.vmdl",
+				"models/heroes/chaos_knight/chaos_knight_helmet.vmdl",
+				"models/heroes/chaos_knight/chaos_knight_mace.vmdl",
+				"models/heroes/chaos_knight/chaos_knight_shield.vmdl"
+			],
+			"npc_dota_hero_obsidian_destroyer": [
+				"models/heroes/obsidian_destroyer/obsidian_destroyer_horns.vmdl",
+				"models/heroes/obsidian_destroyer/obsidian_destroyer_rocks.vmdl",
+				"models/heroes/obsidian_destroyer/obsidian_destroyer_weapon.vmdl",
+				"models/heroes/obsidian_destroyer/obsidian_destroyer_wings.vmdl",
+				"models/heroes/obsidian_destroyer/obsidian_destroyer_head.vmdl"
+			],
+			"npc_dota_hero_naga_siren": [
+				"models/heroes/siren/siren_hair.vmdl",
+				"models/heroes/siren/siren_weapon.vmdl",
+				"models/heroes/siren/siren_tail.vmdl",
+				"models/heroes/siren/siren_armor.vmdl",
+				"models/heroes/siren/siren_weapon_offhand.vmdl"
+			],
+			"npc_dota_hero_nyx_assassin": [
+				"models/heroes/nerubian_assassin/nerubian_assassin_weapon.vmdl",
+				"models/heroes/nerubian_assassin/nerubian_assassin_armor.vmdl",
+				"models/heroes/nerubian_assassin/nerubian_assassin_helmet.vmdl"
+			],
+			"npc_dota_hero_rubick": [
+				"models/heroes/rubick/rubick_staff.vmdl",
+				"models/heroes/rubick/cape.vmdl",
+				"models/heroes/rubick/shoulder.vmdl",
+				"models/heroes/rubick/rubick_head.vmdl"
+			],
+			"npc_dota_hero_lycan": [
+				"models/heroes/lycan/lycan_blades.vmdl",
+				"models/heroes/lycan/lycan_head.vmdl",
+				"models/heroes/lycan/lycan_armor.vmdl",
+				"models/heroes/lycan/lycan_fur.vmdl",
+				"models/heroes/lycan/lycan_belt.vmdl"
+			],
+			"npc_dota_hero_necrolyte": [
+				"models/heroes/necrolyte/necrolyte_sickle.vmdl",
+				"models/heroes/necrolyte/beard.vmdl",
+				"models/heroes/necrolyte/hat.vmdl",
+				"models/heroes/necrolyte/shoulders.vmdl",
+				"models/heroes/necrolyte/legs.vmdl"
+			],
+			"npc_dota_hero_chen": [
+				"models/heroes/chen/weapon.vmdl",
+				"models/heroes/chen/mount.vmdl",
+				"models/heroes/chen/helmet.vmdl",
+				"models/heroes/chen/bracers.vmdl",
+				"models/heroes/chen/shoulders.vmdl"
+			],
+			"npc_dota_hero_treant": [
+				"models/heroes/treant_protector/head.vmdl",
+				"models/heroes/treant_protector/foliage.vmdl",
+				"models/heroes/treant_protector/hands.vmdl",
+				"models/heroes/treant_protector/legs.vmdl"
+			],
+			"npc_dota_hero_rattletrap": [
+				"models/heroes/rattletrap/rattletrap_rocket.vmdl",
+				"models/heroes/rattletrap/rattletrap_weapon.vmdl",
+				"models/heroes/rattletrap/rattletrap_armor.vmdl",
+				"models/heroes/rattletrap/rattletrap_head.vmdl"
+			],
+			"npc_dota_hero_doom_bringer": [
+				"models/heroes/doom/doom_sword.vmdl",
+				"models/heroes/doom/doom_helm.vmdl",
+				"models/heroes/doom/shoulders.vmdl",
+				"models/heroes/doom/bracer.vmdl",
+				"models/heroes/doom/belt.vmdl",
+				"models/heroes/doom/wings.vmdl",
+				"models/heroes/doom/tail.vmdl"
+			],
+			"npc_dota_hero_warlock": [
+				"models/heroes/warlock/warlock_staff.vmdl",
+				"models/heroes/warlock/warlock_lantern.vmdl",
+				"models/heroes/warlock/warlock_cape.vmdl",
+				"models/heroes/warlock/warlock_shoulder.vmdl",
+				"models/heroes/warlock/warlock_bracers.vmdl",
+				"models/heroes/warlock/warlock_robe.vmdl",
+				"models/heroes/warlock/warlock_bag.vmdl"
+			],
+			"npc_dota_hero_shadow_shaman": [
+				"models/heroes/shadowshaman/weapon.vmdl",
+				"models/heroes/shadowshaman/weapon_offhand.vmdl",
+				"models/heroes/shadowshaman/helmet.vmdl",
+				"models/heroes/shadowshaman/armarmor.vmdl",
+				"models/heroes/shadowshaman/belt.vmdl",
+				"models/heroes/shadowshaman/head.vmdl"
+			],
+			"npc_dota_hero_keeper_of_the_light": [
+				"models/heroes/keeper_of_the_light/kotl_mount.vmdl",
+				"models/heroes/keeper_of_the_light/kotl_staff.vmdl",
+				"models/heroes/keeper_of_the_light/kotl_hood.vmdl",
+				"models/heroes/keeper_of_the_light/kotl_skirt.vmdl",
+				"models/heroes/keeper_of_the_light/kotl_horse_accesories.vmdl"
+			],
+			"npc_dota_hero_dazzle": [
+				"models/heroes/dazzle/dazzle_mohawk.vmdl",
+				"models/heroes/dazzle/dazzle_staff.vmdl",
+				"models/heroes/dazzle/dazzle_dress.vmdl",
+				"models/heroes/dazzle/dazzle_sleeve.vmdl",
+				"models/heroes/dazzle/dazzle_shoulder.vmdl"
+			],
+			"npc_dota_hero_huskar": [
+				"models/heroes/huskar/huskar_spear.vmdl",
+				"models/heroes/huskar/huskar_dagger.vmdl",
+				"models/heroes/huskar/huskar_helmet.vmdl",
+				"models/heroes/huskar/huskar_shoulder.vmdl",
+				"models/heroes/huskar/huskar_bracer.vmdl"
+			],
+			"npc_dota_hero_slardar": [
+				"models/heroes/slardar/slardar_weapon.vmdl",
+				"models/heroes/slardar/slardar_back.vmdl",
+				"models/heroes/slardar/slardar_arms.vmdl"
+			],
+			"npc_dota_hero_weaver": [
+				"models/heroes/weaver/weaver_antlers.vmdl",
+				"models/heroes/weaver/weaver_legs.vmdl",
+				"models/heroes/weaver/weaver_arms.vmdl",
+				"models/heroes/weaver/weaver_head.vmdl"
+			],
+			"npc_dota_hero_sniper": [
+				"models/heroes/sniper/weapon.vmdl",
+				"models/heroes/sniper/cape.vmdl",
+				"models/heroes/sniper/headitem.vmdl",
+				"models/heroes/sniper/shoulder.vmdl",
+				"models/heroes/sniper/bracer.vmdl"
+			],
+			"npc_dota_hero_enchantress": [
+				"models/heroes/enchantress/enchantress_necklace.vmdl",
+				"models/heroes/enchantress/enchantress_hair.vmdl",
+				"models/heroes/enchantress/enchantress_dress.vmdl",
+				"models/heroes/enchantress/enchantress_bracers.vmdl",
+				"models/heroes/enchantress/enchantress_weapon.vmdl"
+			],
+			"npc_dota_hero_venomancer": [
+				"models/heroes/venomancer/venomancer_jaw.vmdl",
+				"models/heroes/venomancer/venomancer_shoulder.vmdl",
+				"models/heroes/venomancer/venomancer_arms.vmdl",
+				"models/heroes/venomancer/venomancer_tail.vmdl"
+			],
+			"npc_dota_hero_terrorblade": [
+				"models/heroes/terrorblade/wings.vmdl",
+				"models/heroes/terrorblade/weapon.vmdl",
+				"models/heroes/terrorblade/armor.vmdl",
+				"models/heroes/terrorblade/horns.vmdl"
+			],
+			"npc_dota_hero_storm_spirit": [
+				"models/heroes/storm_spirit/storm_hat.vmdl",
+				"models/heroes/storm_spirit/storm_shoulder.vmdl",
+				"models/heroes/storm_spirit/storm_shirt.vmdl"
+			],
+			"npc_dota_hero_beastmaster": [
+				"models/heroes/beastmaster/beastmaster_weapon.vmdl",
+				"models/heroes/beastmaster/beastmaster_head.vmdl",
+				"models/heroes/beastmaster/beastmaster_shoulder.vmdl",
+				"models/heroes/beastmaster/beastmaster_arms.vmdl",
+				"models/heroes/beastmaster/beastmaster_belt.vmdl"
+			],
+			"npc_dota_hero_lina": [
+				"models/heroes/lina/lina_neck.vmdl",
+				"models/heroes/lina/lina_head.vmdl",
+				"models/heroes/lina/lina_arms.vmdl",
+				"models/heroes/lina/lina_belt.vmdl"
+			],
+			"npc_dota_hero_spectre": [
+				"models/heroes/spectre/spectre_hat.vmdl",
+				"models/heroes/spectre/spectre_dress.vmdl",
+				"models/heroes/spectre/spectre_wings.vmdl",
+				"models/heroes/spectre/spectre_weapon.vmdl"
+			],
+			"npc_dota_hero_magnataur": [
+				"models/heroes/magnataur/magnataur_hair.vmdl",
+				"models/heroes/magnataur/magnataur_horn.vmdl",
+				"models/heroes/magnataur/magnataur_bracers.vmdl",
+				"models/heroes/magnataur/magnataur_belt.vmdl",
+				"models/heroes/magnataur/magnataur_weapon.vmdl"
+			],
+			"npc_dota_hero_lich": [
+				"models/heroes/lich/lich_dress.vmdl",
+				"models/heroes/lich/lich_neck_rock.vmdl",
+				"models/heroes/lich/lich_bracer.vmdl",
+				"models/heroes/lich/lich_horns.vmdl"
+			],
+			"npc_dota_hero_slark": [
+				"models/heroes/slark/weapon.vmdl",
+				"models/heroes/slark/bracer.vmdl",
+				"models/heroes/slark/shoulder.vmdl",
+				"models/heroes/slark/cape.vmdl",
+				"models/heroes/slark/hood.vmdl"
+			],
+			"npc_dota_hero_night_stalker": [
+				"models/heroes/nightstalker/nightstalker_wings.vmdl",
+				"models/heroes/nightstalker/nightstalker_legarmor.vmdl",
+				"models/heroes/nightstalker/nightstalker_tail.vmdl"
+			],
+			"npc_dota_hero_razor": [
+				"models/heroes/razor/razor_weapon.vmdl",
+				"models/heroes/razor/razor_head.vmdl",
+				"models/heroes/razor/razor_armor.vmdl",
+				"models/heroes/razor/razor_bracers.vmdl",
+				"models/heroes/razor/razor_robe.vmdl"
+			],
+			"npc_dota_hero_leshrac": [
+				"models/heroes/leshrac/leshrac_armor.vmdl",
+				"models/heroes/leshrac/leshrac_head.vmdl",
+				"models/heroes/leshrac/leshrac_tail.vmdl"
+			],
+			"npc_dota_hero_dark_seer": [
+				"models/heroes/dark_seer/dark_seer_back.vmdl",
+				"models/heroes/dark_seer/dark_seer_head.vmdl",
+				"models/heroes/dark_seer/dark_seer_arm.vmdl",
+				"models/heroes/dark_seer/dark_seer_waist.vmdl",
+				"models/heroes/dark_seer/dark_seer_neck.vmdl"
+			],
+			"npc_dota_hero_centaur": [
+				"models/heroes/centaur/weapon.vmdl",
+				"models/heroes/centaur/headitem.vmdl",
+				"models/heroes/centaur/shoulder.vmdl",
+				"models/heroes/centaur/belt.vmdl",
+				"models/heroes/centaur/shield.vmdl",
+				"models/heroes/centaur/bracer.vmdl",
+				"models/heroes/centaur/tail.vmdl"
+			],
+			"npc_dota_hero_lion": [
+				"models/heroes/lion/lion_weapon.vmdl",
+				"models/heroes/lion/lion_cape.vmdl",
+				"models/heroes/lion/lion_shoulder.vmdl",
+				"models/heroes/lion/lion_demonarm.vmdl"
+			],
+			"npc_dota_hero_tinker": [
+				"models/heroes/tinker/tinker_right_arm.vmdl",
+				"models/heroes/tinker/tinker_left_arm.vmdl",
+				"models/heroes/tinker/tinker_shoulders.vmdl",
+				"models/heroes/tinker/tinker_helmet.vmdl",
+				"models/heroes/tinker/tinker_body_head.vmdl",
+				"models/heroes/tinker/tinker_cape.vmdl"
+			],
+			"npc_dota_hero_puck": [
+				"models/heroes/puck/puck_wings.vmdl",
+				"models/heroes/puck/puck_tail.vmdl",
+				"models/heroes/puck/puck_horns.vmdl"
+			],
+			"npc_dota_hero_troll_warlord": [
+				"models/heroes/troll_warlord/troll_warlord_weapons.vmdl",
+				"models/heroes/troll_warlord/troll_warlord_shoulders.vmdl",
+				"models/heroes/troll_warlord/troll_warlord_head.vmdl",
+				"models/heroes/troll_warlord/mesh/troll_warlord_armor_model_lod0.vmdl"
+			],
+			"npc_dota_hero_batrider": [
+				"models/heroes/batrider/batrider_head.vmdl",
+				"models/heroes/batrider/batrider_cloak.vmdl",
+				"models/heroes/batrider/batrider_belt.vmdl",
+				"models/heroes/batrider/batrider_mount.vmdl"
+			],
+			"npc_dota_hero_medusa": [
+				"models/heroes/medusa/medusa_bow.vmdl",
+				"models/heroes/medusa/medusa_veil.vmdl",
+				"models/heroes/medusa/medusa_torso.vmdl",
+				"models/heroes/medusa/medusa_arms.vmdl",
+				"models/heroes/medusa/medusa_tail.vmdl"
+			],
+			"npc_dota_hero_shredder": [
+				"models/heroes/shredder/shredder_driver_hat.vmdl",
+				"models/heroes/shredder/shredder_chainsaw.vmdl",
+				"models/heroes/shredder/shredder_shoulders.vmdl",
+				"models/heroes/shredder/shredder_body.vmdl",
+				"models/heroes/shredder/shredder_blade.vmdl",
+				"models/heroes/shredder/shredder_armor.vmdl",
+				"models/heroes/shredder/shredder_hook.vmdl"
+			],
+			"npc_dota_hero_nevermore": [
+				"models/heroes/shadow_fiend/shadow_fiend_head.vmdl",
+				"models/heroes/shadow_fiend/shadow_fiend_shoulders.vmdl",
+				"models/heroes/shadow_fiend/shadow_fiend_arms.vmdl"
+			],
+			"npc_dota_hero_undying": [
+				"models/heroes/undying/undying_helmet.vmdl",
+				"models/heroes/undying/undying_armor.vmdl",
+				"models/heroes/undying/mesh/undying_arm.vmdl"
+			],
+			"npc_dota_hero_shadow_demon": [
+				"models/heroes/shadow_demon/shadow_demon_cape.vmdl",
+				"models/heroes/shadow_demon/shadow_demon_chain.vmdl",
+				"models/heroes/shadow_demon/shadow_demon_belt.vmdl",
+				"models/heroes/shadow_demon/shadow_demon_tail.vmdl"
+			],
+			"npc_dota_hero_mirana": [
+				"models/heroes/mirana/bow.vmdl",
+				"models/heroes/mirana/mount.vmdl",
+				"models/heroes/mirana/head_item.vmdl",
+				"models/heroes/mirana/cape.vmdl",
+				"models/heroes/mirana/shoulders.vmdl",
+				"models/heroes/mirana/bracers.vmdl",
+				"models/heroes/mirana/quiver.vmdl"
+			],
+			"npc_dota_hero_tusk": [
+				"models/heroes/tuskarr/tusk_armor_glove.vmdl",
+				"models/heroes/tuskarr/tusk_cowl.vmdl",
+				"models/heroes/tuskarr/tusk_hat.vmdl",
+				"models/heroes/tuskarr/tusk_horns.vmdl",
+				"models/heroes/tuskarr/tusk_weapon.vmdl",
+				"models/heroes/tuskarr/tusk_fish_basket.vmdl"
+			],
+			"npc_dota_hero_skywrath_mage": [
+				"models/heroes/skywrath_mage/skywrath_mage_staff.vmdl",
+				"models/heroes/skywrath_mage/skywrath_mage_head.vmdl",
+				"models/heroes/skywrath_mage/skywrath_mage_wings.vmdl",
+				"models/heroes/skywrath_mage/skywrath_mage_belt.vmdl",
+				"models/heroes/skywrath_mage/skywrath_mage_shoulders.vmdl",
+				"models/heroes/skywrath_mage/skywrath_mage_bracers.vmdl"
+			],
+			"npc_dota_hero_elder_titan": [
+				"models/heroes/elder_titan/elder_titan_hammer.vmdl",
+				"models/heroes/elder_titan/elder_titan_bracer.vmdl",
+				"models/heroes/elder_titan/elder_titan_hair.vmdl",
+				"models/heroes/elder_titan/elder_titan_shoulder.vmdl",
+				"models/heroes/elder_titan/elder_titan_totem.vmdl"
+			],
+			"npc_dota_hero_legion_commander": [
+				"models/heroes/legion_commander/legion_commander_head.vmdl",
+				"models/heroes/legion_commander/legion_commander_shoulders.vmdl",
+				"models/heroes/legion_commander/legion_commander_back.vmdl",
+				"models/heroes/legion_commander/legion_commander_weapon.vmdl",
+				"models/heroes/legion_commander/legion_commander_arms.vmdl"
+			],
+			"npc_dota_hero_bristleback": [
+				"models/heroes/bristleback/bristleback_back.vmdl",
+				"models/heroes/bristleback/bristleback_head.vmdl",
+				"models/heroes/bristleback/bristleback_weapon.vmdl",
+				"models/heroes/bristleback/bristleback_bracer.vmdl",
+				"models/heroes/bristleback/bristleback_necklace.vmdl"
+			],
+			"npc_dota_hero_vengefulspirit": [
+				"models/heroes/vengeful/vengeful_hair.vmdl",
+				"models/heroes/vengeful/vengeful_weapon.vmdl",
+				"models/heroes/vengeful/vengeful_upperbody.vmdl",
+				"models/heroes/vengeful/vengeful_lowerbody.vmdl"
+			],
+			"npc_dota_hero_life_stealer": [
+				"models/heroes/life_stealer/life_stealer_loincloth.vmdl",
+				"models/heroes/life_stealer/life_stealer_chains.vmdl"
+			],
+			"npc_dota_hero_luna": [
+				"models/heroes/luna/luna_weapon.vmdl",
+				"models/heroes/luna/luna_shield.vmdl",
+				"models/heroes/luna/luna_helmet.vmdl",
+				"models/heroes/luna/luna_shoulder.vmdl",
+				"models/heroes/luna/luna_mount.vmdl",
+				"models/heroes/luna/luna_head.vmdl"
+			],
+			"npc_dota_hero_abaddon": [
+				"models/heroes/abaddon/weapon.vmdl",
+				"models/heroes/abaddon/helmet.vmdl",
+				"models/heroes/abaddon/cape.vmdl",
+				"models/heroes/abaddon/shoulders.vmdl",
+				"models/heroes/abaddon/mount.vmdl"
+			],
+			"npc_dota_hero_earthshaker": [
+				"models/heroes/earthshaker/totem.vmdl",
+				"models/heroes/earthshaker/bracers.vmdl",
+				"models/heroes/earthshaker/belt.vmdl"
+			],
+			"npc_dota_hero_ember_spirit": [
+				"models/heroes/ember_spirit/back.vmdl",
+				"models/heroes/ember_spirit/shoulder.vmdl",
+				"models/heroes/ember_spirit/belt.vmdl",
+				"models/heroes/ember_spirit/weapon1.vmdl",
+				"models/heroes/ember_spirit/weapon2.vmdl",
+				"models/heroes/ember_spirit/arm.vmdl"
+			],
+			"npc_dota_hero_earth_spirit": [
+				"models/heroes/earth_spirit/earth_spirit_staff.vmdl",
+				"models/heroes/earth_spirit/earth_spirit_hair.vmdl",
+				"models/heroes/earth_spirit/earth_spirit_belt.vmdl",
+				"models/heroes/earth_spirit/earth_spirit_torso.vmdl",
+				"models/heroes/earth_spirit/earth_spirit_arms.vmdl",
+				"models/heroes/earth_spirit/earth_spirit_head.vmdl"
+			],
+			"npc_dota_hero_techies": [
+				"models/heroes/techies/techies_barrel.vmdl",
+				"models/heroes/techies/techies_spleen_weapon.vmdl",
+				"models/heroes/techies/techies_cart.vmdl",
+				"models/heroes/techies/techies_squee_costume.vmdl",
+				"models/heroes/techies/techies_spleen_costume.vmdl"
+			],
+			"npc_dota_hero_tiny": [
+				"models/heroes/tiny_01/tiny_01_head.vmdl",
+				"models/heroes/tiny_01/tiny_01_body.vmdl",
+				"models/heroes/tiny_01/tiny_01_left_arm.vmdl",
+				"models/heroes/tiny_01/tiny_01_right_arm.vmdl",
+				"models/heroes/tiny/tiny_tree/tiny_tree.vmdl"
+			],
+			"npc_dota_hero_oracle": [
+				"models/heroes/oracle/armor.vmdl",
+				"models/heroes/oracle/back_item.vmdl",
+				"models/heroes/oracle/head_item.vmdl",
+				"models/heroes/oracle/weapon.vmdl"
+			],
+			"npc_dota_hero_winter_wyvern": [
+				"models/heroes/winterwyvern/winterwyvern_crown.vmdl",
+				"models/heroes/winterwyvern/winterwyvern_backitem.vmdl"
+			],
+			"npc_dota_hero_arc_warden": [
+				"models/heroes/arc_warden/arc_warden_bracers.vmdl",
+				"models/heroes/arc_warden/arc_warden_shoulder.vmdl",
+				"models/heroes/arc_warden/arc_warden_back.vmdl"
+			],
+			"npc_dota_hero_zuus": [
+				"models/heroes/zeus/zeus_bracers.vmdl",
+				"models/heroes/zeus/zeus_hair.vmdl",
+				"models/heroes/zeus/zeus_belt.vmdl",
+				"models/heroes/zeus/zeus_vest.vmdl"
+			],
+			"npc_dota_hero_phoenix": [
+				"models/heroes/phoenix/phoenix_bird_head.vmdl",
+				"models/heroes/phoenix/phoenix_wings.vmdl"
+			],
+			"npc_dota_hero_monkey_king": [
+				"models/heroes/monkey_king/monkey_king_hair.vmdl",
+				"models/heroes/monkey_king/monkey_king_armor.vmdl",
+				"models/heroes/monkey_king/monkey_king_base_weapon.vmdl",
+				"models/heroes/monkey_king/monkey_king_shoulders.vmdl"
+			],
+			"npc_dota_hero_viper": [
+				"models/heroes/viper/viper_back.vmdl"
+			],
+			"npc_dota_hero_bane": [
+				"models/heroes/bane/bane_head.vmdl",
+				"models/heroes/bane/bane_shoulders.vmdl"
+			],
+			"npc_dota_hero_abyssal_underlord": [
+				"models/heroes/abyssal_underlord/mesh/underlord_armor.vmdl",
+				"models/heroes/abyssal_underlord/mesh/underlord_headitem.vmdl",
+				"models/heroes/abyssal_underlord/mesh/underlord_weapon.vmdl",
+				"models/heroes/abyssal_underlord/mesh/underlord_head.vmdl"
+			],
+			"npc_dota_hero_visage": [
+				"models/heroes/visage/visage_head.vmdl",
+				"models/heroes/visage/visage_armor.vmdl"
+			],
+			"npc_dota_hero_jakiro": [
+				"models/heroes/jakiro/jakiro_wings.vmdl"
+			],
+			"npc_dota_hero_dark_willow": [
+				"models/heroes/dark_willow/dark_willow_head.vmdl",
+				"models/heroes/dark_willow/dark_willow_offhand.vmdl",
+				"models/heroes/dark_willow/dark_willow_armor.vmdl",
+				"models/heroes/dark_willow/dark_willow_wings.vmdl",
+				"models/heroes/dark_willow/dark_willow_chakram.vmdl"
+			],
+			"npc_dota_hero_pangolier": [
+				"models/heroes/pangolier/pangolier_weapon.vmdl",
+				"models/heroes/pangolier/pangolier_armor.vmdl",
+				"models/heroes/pangolier/pangolier_head.vmdl"
+			],
+			"npc_dota_hero_ancient_apparition": [
+				"models/heroes/ancient_apparition/ancient_apparition_shoulder.vmdl",
+				"models/heroes/ancient_apparition/ancient_apparition_tail.vmdl"
+			],
+			"npc_dota_hero_mars": [
+				"models/heroes/mars/mars_spear.vmdl",
+				"models/heroes/mars/mars_upper.vmdl",
+				"models/heroes/mars/mars_lower.vmdl",
+				"models/heroes/mars/mars_shield.vmdl"
+			],
+			"npc_dota_hero_grimstroke": [
+				"models/heroes/grimstroke/grimstroke_skirt.vmdl",
+				"models/heroes/grimstroke/grimstroke_weapon.vmdl",
+				"models/heroes/grimstroke/grimstroke_head_item.vmdl",
+				"models/heroes/grimstroke/grimstroke_armor.vmdl"
+			],
+			"npc_dota_hero_void_spirit": [
+				"models/heroes/void_spirit/void_spirit_weapon.vmdl",
+				"models/heroes/void_spirit/void_spirit_head.vmdl",
+				"models/heroes/void_spirit/void_spirit_armor.vmdl",
+				"models/heroes/void_spirit/void_spirit_belt.vmdl"
+			],
+			"npc_dota_hero_snapfire": [
+				"models/heroes/snapfire/snapfire_hair.vmdl",
+				"models/heroes/snapfire/snapfire_body.vmdl",
+				"models/heroes/snapfire/snapfire_armor.vmdl",
+				"models/heroes/snapfire/snapfire_mount.vmdl",
+				"models/heroes/snapfire/snapfire_weapon.vmdl"
+			],
+			"npc_dota_hero_hoodwink": [
+				"models/heroes/hoodwink/hoodwink_hood.vmdl",
+				"models/heroes/hoodwink/hoodwink_costume.vmdl",
+				"models/heroes/hoodwink/hoodwink_tail.vmdl",
+				"models/heroes/hoodwink/hoodwink_crossbow.vmdl"
+			],
+			"npc_dota_hero_dawnbreaker": [
+				"models/heroes/dawnbreaker/dawnbreaker_head.vmdl",
+				"models/heroes/dawnbreaker/dawnbreaker_arms.vmdl",
+				"models/heroes/dawnbreaker/dawnbreaker_armor.vmdl",
+				"models/heroes/dawnbreaker/dawnbreaker_weapon.vmdl"
+			],
+			"npc_dota_hero_primal_beast": [
+				"models/heroes/primal_beast/primal_beast_armor.vmdl",
+				"models/heroes/primal_beast/primal_beast_back.vmdl",
+				"models/heroes/primal_beast/primal_beast_leg.vmdl"
+			],
+			"npc_dota_hero_marci": [
+				"models/heroes/marci/marci_head.vmdl",
+				"models/heroes/marci/marci_costume.vmdl",
+				"models/heroes/marci/marci_back.vmdl",
+				"models/heroes/marci/marci_shoulders.vmdl"
+			],
+			"npc_dota_hero_muerta": [
+				"models/heroes/muerta/muerta_weapons.vmdl",
+				"models/heroes/muerta/muerta_head.vmdl",
+				"models/heroes/muerta/muerta_back.vmdl",
+				"models/heroes/muerta/muerta_armor.vmdl"
+			],
+			"npc_dota_hero_ringmaster": [
+				"models/heroes/ringmaster/ringmaster_weapon.vmdl",
+				"models/heroes/ringmaster/ringmaster_head.vmdl",
+				"models/heroes/ringmaster/ringmaster_belt.vmdl",
+				"models/heroes/ringmaster/ringmaster_armor.vmdl"
+			],
+			"npc_dota_hero_kez": [
+				"models/heroes/kez/kez_weapon.vmdl",
+				"models/heroes/kez/kez_head.vmdl",
+				"models/heroes/kez/kez_shoulder.vmdl",
+				"models/heroes/kez/kez_belt.vmdl",
+				"models/heroes/kez/kez_offhand.vmdl"
+			],
+			"npc_dota_hero_largo": [
+				"models/heroes/bard/bard_frog_upperbody.vmdl",
+				"models/heroes/bard/bard_frog_lowerbody.vmdl",
+				"models/heroes/bard/bard_frog_weapon.vmdl"
+			]
+		}
+	}
+}
